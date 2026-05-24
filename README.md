@@ -26,7 +26,7 @@ This is a program for an GUI based digital clock
    git clone https://github.com/TheDevGod-Build/digital_clock.git
    cd alarm_clock
    ```
-2. **Install Pygame**
+2. **Install PyQt5**
    ```bash
    pip install PyQt5
    ```
